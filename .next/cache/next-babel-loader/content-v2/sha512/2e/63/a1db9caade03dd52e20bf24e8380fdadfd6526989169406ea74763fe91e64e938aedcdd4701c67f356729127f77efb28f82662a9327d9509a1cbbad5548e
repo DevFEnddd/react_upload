@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './Corner';","map":{"version":3,"sources":["F:/PM/oiron_v101/oiron/packages/crypto-theme/components/Home/Corner/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,UAAxB","sourcesContent":["export { default } from './Corner';\n"]},"metadata":{},"sourceType":"module"}

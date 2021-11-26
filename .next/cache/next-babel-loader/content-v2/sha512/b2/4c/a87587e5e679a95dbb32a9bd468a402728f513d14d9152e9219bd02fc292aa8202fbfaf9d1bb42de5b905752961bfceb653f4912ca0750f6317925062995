@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './MarketPrice';","map":{"version":3,"sources":["F:/PM/oiron_v101/oiron/packages/crypto-theme/components/Home/MarketPrice/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,eAAxB","sourcesContent":["export { default } from './MarketPrice';\n"]},"metadata":{},"sourceType":"module"}

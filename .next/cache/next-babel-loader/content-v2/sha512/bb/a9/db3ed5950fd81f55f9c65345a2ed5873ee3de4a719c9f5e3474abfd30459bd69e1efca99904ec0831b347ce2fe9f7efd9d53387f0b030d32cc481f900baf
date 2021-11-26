@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './Benefit';","map":{"version":3,"sources":["F:/PM/oiron_v101/oiron/packages/crypto-theme/components/Home/Benefit/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,WAAxB","sourcesContent":["export { default } from './Benefit';\n"]},"metadata":{},"sourceType":"module"}

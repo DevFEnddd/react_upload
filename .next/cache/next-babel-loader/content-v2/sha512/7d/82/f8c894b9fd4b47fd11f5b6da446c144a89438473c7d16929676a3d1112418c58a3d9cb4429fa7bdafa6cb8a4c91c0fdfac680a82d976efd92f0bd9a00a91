@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './GradientDeco';","map":{"version":3,"sources":["F:/PM/oiron_v101/oiron/packages/crypto-theme/components/GradientDeco/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,gBAAxB","sourcesContent":["export { default } from './GradientDeco';\n"]},"metadata":{},"sourceType":"module"}
